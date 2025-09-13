@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid white;
+    margin: 2rem;
+    display: flex;
+    align-items: center;   /* vertical center */
+    justify-content: center; /* horizontal center */
+
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.pink{
+    background-color: palevioletred;
+
+}
+
+.green{
+    background-color: rgb(75, 239, 75);
+}
+
+.purple{
+    background-color: rgb(154, 85, 154);
+}
+
+.blue{
+    background-color: rgb(99, 99, 241);
+}
+
+.flash{
+    background-color: white;
+}
+
+.userflash{
+    background-color: chocolate;
+}
